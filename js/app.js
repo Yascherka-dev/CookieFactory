@@ -5,3 +5,4 @@ const gmValue = getElementById("gmValue")
 const btnBuyGm = getElementById("btnBuyGm")
 
 
+
